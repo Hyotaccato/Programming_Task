@@ -1,0 +1,11 @@
+# 의존성 폴더
+node_modules/
+
+# 빌드 결과물 폴더
+dist/
+
+# 테스트 및 로그 파일 무시
+.playwright-mcp/
+console-*.log
+page-*.log
+*.log
